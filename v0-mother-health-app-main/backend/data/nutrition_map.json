@@ -1,0 +1,8 @@
+{
+  "pizza":              { "per_100g": { "calories": 266, "carbs_g": 33.0, "fat_g": 10.0, "protein_g": 11.0 } },
+  "hamburger":          { "per_100g": { "calories": 250, "carbs_g": 30.0, "fat_g": 9.0,  "protein_g": 12.0 } },
+  "sushi":              { "per_100g": { "calories": 145, "carbs_g": 28.0, "fat_g": 2.0,  "protein_g": 6.0 } },
+  "waffles":            { "per_100g": { "calories": 291, "carbs_g": 33.0, "fat_g": 15.0, "protein_g": 7.0 } },
+  "greek_salad":        { "per_100g": { "calories": 100, "carbs_g": 4.0,  "fat_g": 8.0,  "protein_g": 3.0 } },
+  "spaghetti_bolognese":{ "per_100g": { "calories": 160, "carbs_g": 20.0, "fat_g": 5.0,  "protein_g": 7.0 } }
+}
